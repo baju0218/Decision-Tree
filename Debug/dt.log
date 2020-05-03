@@ -1,0 +1,10 @@
+﻿  dt.cpp
+C:\Users\백종운\Desktop\데이터사이언스\2020_ITE4005_2014004048\Programming_Assignment_2\project_dt\dt\dt.cpp(64,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\Desktop\데이터사이언스\2020_ITE4005_2014004048\Programming_Assignment_2\project_dt\dt\dt.cpp(93,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\Desktop\데이터사이언스\2020_ITE4005_2014004048\Programming_Assignment_2\project_dt\dt\dt.cpp(115,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\Desktop\데이터사이언스\2020_ITE4005_2014004048\Programming_Assignment_2\project_dt\dt\dt.cpp(187,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\Desktop\데이터사이언스\2020_ITE4005_2014004048\Programming_Assignment_2\project_dt\dt\dt.cpp(229,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\Desktop\데이터사이언스\2020_ITE4005_2014004048\Programming_Assignment_2\project_dt\dt\dt.cpp(285,22): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\Desktop\데이터사이언스\2020_ITE4005_2014004048\Programming_Assignment_2\project_dt\dt\dt.cpp(322,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\백종운\Desktop\데이터사이언스\2020_ITE4005_2014004048\Programming_Assignment_2\project_dt\dt\dt.cpp(462,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  dt.vcxproj -> C:\Users\백종운\Desktop\데이터사이언스\2020_ITE4005_2014004048\Programming_Assignment_2\project_dt\Debug\dt.exe
